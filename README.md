@@ -63,7 +63,7 @@ As the founding member of the new Devops team, your first tasks are:
 - define a better resource organization policy
 - the teams are currently deploying the solutions from VsCode. How could they deploy in a better way?
 - they complain that manually creating resources is pain and sometimes they forget to delete them. Can that be improved?
-  - If they mention IaC: can you write a Terraform / ARM / Azure Devops to automate resource creations? How should it be deployed?
+  - can you write a Terraform / ARM / Azure Devops to automate resource creations? How should it be deployed?
 - GDPR is a thing here in Azeroth. Only the persons who should have access to a production resource have it. How could we restrict that?
-- What other ideas do you have to make our infrastructure cheaper, more available, secure and scalable?
-- Keep in mind we are planning to expand and hire many more teams!
+- what other ideas do you have to make our infrastructure cheaper, more available, secure and scalable?
+- keep in mind we are planning to expand and hire many more teams!
